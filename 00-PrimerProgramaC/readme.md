@@ -1,2 +1,2 @@
 TP0
-Frontend para el TP
+Programita simple que te saluda y queda a la espera del ingreso de una tecla para salir.
